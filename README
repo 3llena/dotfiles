@@ -1,5 +1,4 @@
 tested on hyper/libre 5.10.103
-.bashrc is ln of scripts/alias.sh
 
 .bash_profile runs x11
     --> .config/xorg/xinitrc runs openbox
