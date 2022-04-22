@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# run setup
+sh $HOME/scripts/setup.sh 2> /dev/null
