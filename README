@@ -5,4 +5,4 @@ tested on hyper/libre 5.10.103
     --> .config/openbox/autostart runs scripts/setup.sh
     --> scripts/setup.sh runs user scripts
 
-t. 3llena-arch
+t. 3llena
